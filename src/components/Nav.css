@@ -177,6 +177,7 @@
 
   .Nav--GroupLinks {
     position: relative;
+    top: 0;
     text-align: center;
   }
 
