@@ -1,11 +1,11 @@
 {
-  "name": "yellowcake",
-  "HomePage": "https://yellowcake.netlify.com/",
-  "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
-  "version": "2.0.0",
+  "name": "readon",
+  "HomePage": "https://www.readon.com/",
+  "description": "My blog about lifestyle, fitness, personal finance, self education and everything else I deem important...",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thriveweb/yellowcake"
+    "url": "https://github.com/groninge/yellowcake"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
