@@ -1,8 +1,7 @@
-siteTitle: Yellow Cake
-siteUrl: 'https://yellowcake.netlify.com'
+siteTitle: Read on...
+siteUrl: 'https://www.readon.ml'
 siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby v2 Netlify
-  CMS v2 and Uploadcare media library.
+  My blog about lifestyle, fitness, personal finance, self education and everything else I deem important...
 socialMediaCard:
-  image: 'https://ucarecdn.com/fcc8d148-a9a8-42ee-a793-0f12b1437f61/'
-googleTrackingId: 'UA-133175780-1'
+  image: 'https://ucarecdn.com/833cbc98-ebe4-458b-a7bb-a8d458674c3a/'
+googleTrackingId: 'UA-145820156-1'
