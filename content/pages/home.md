@@ -1,30 +1,13 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: Read on...
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: ' Welcome to my blog. Now read on...'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: >-
+    My blog about lifestyle, fitness, personal finance, self education and
+    everything else I deem important...
+  title: Read on...
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
-
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
-
-# Features
-
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam blandit vulputate tellus, a dignissim augue dignissim eu. Cras suscipit ac purus non scelerisque. Sed finibus auctor risus, id imperdiet sapien. Ut in vulputate arcu. Etiam eget porta nunc, quis porta sem. In a dui vel ex dapibus placerat et ac ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi maximus sollicitudin odio, et pulvinar enim ullamcorper et. Morbi finibus dictum mauris, imperdiet vestibulum libero hendrerit aliquet. In magna purus, blandit non placerat at, dignissim ac libero. Aliquam nec nisi vel felis bibendum luctus et ut turpis. Donec aliquet ante ac nunc dignissim finibus. Donec ut nunc in erat blandit pellentesque. Sed eros ipsum, consectetur a bibendum non, tempus sit amet orci. Quisque suscipit eleifend placerat.
