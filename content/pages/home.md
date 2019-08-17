@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: Read on...
+title: Welcome to my home page!
 featuredImage: 'https://ucarecdn.com/3cca03ea-c2d0-4ec3-a611-027856c66978/'
-subtitle: 'Subtitle'
+subtitle: 'Now read on...'
 meta:
   description: >-
     My blog about lifestyle, fitness, personal finance, self education and
